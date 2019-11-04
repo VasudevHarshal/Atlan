@@ -1,0 +1,3243 @@
+[
+{
+"battingScore": 0,
+"opposition": "v Pakistan",
+"ground": "Gujranwala",
+"date": "1989-12-18T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 0,
+"opposition": "v New Zealand",
+"ground": "Dunedin",
+"date": "1990-03-01T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 36,
+"opposition": "v New Zealand",
+"ground": "Wellington",
+"date": "1990-03-06T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 10,
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "1990-04-25T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 20,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1990-04-27T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 19,
+"opposition": "v England",
+"ground": "Leeds",
+"date": "1990-07-18T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 31,
+"opposition": "v England",
+"ground": "Nottingham",
+"date": "1990-07-20T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 36,
+"opposition": "v Sri Lanka",
+"ground": "Nagpur",
+"date": "1990-12-01T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 53,
+"opposition": "v Sri Lanka",
+"ground": "Pune",
+"date": "1990-12-05T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 30,
+"opposition": "v Sri Lanka",
+"ground": "Margao",
+"date": "1990-12-08T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "DNB",
+"opposition": "v Bangladesh",
+"ground": "Chandigarh",
+"date": "1990-12-25T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Sri Lanka",
+"ground": "Cuttack",
+"date": "1990-12-28T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 53,
+"opposition": "v Sri Lanka",
+"ground": "Kolkata",
+"date": "1991-01-04T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "52*",
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1991-10-18T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 22,
+"opposition": "v West Indies",
+"ground": "Sharjah",
+"date": "1991-10-19T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "11*",
+"opposition": "v West Indies",
+"ground": "Sharjah",
+"date": "1991-10-22T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 49,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1991-10-23T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 0,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1991-10-25T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 62,
+"opposition": "v South Africa",
+"ground": "Kolkata",
+"date": "1991-11-10T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v South Africa",
+"ground": "Gwalior",
+"date": "1991-11-12T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v South Africa",
+"ground": "New Delhi",
+"date": "1991-11-14T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v West Indies",
+"ground": "Perth",
+"date": "1991-12-06T08:00:00.000Z",
+"matchResult": "tied"
+},
+{
+"battingScore": 36,
+"opposition": "v Australia",
+"ground": "Perth",
+"date": "1991-12-08T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 57,
+"opposition": "v Australia",
+"ground": "Hobart",
+"date": "1991-12-10T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 48,
+"opposition": "v West Indies",
+"ground": "Adelaide",
+"date": "1991-12-14T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 21,
+"opposition": "v Australia",
+"ground": "Adelaide",
+"date": "1991-12-15T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 77,
+"opposition": "v West Indies",
+"ground": "Brisbane",
+"date": "1992-01-11T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 31,
+"opposition": "v Australia",
+"ground": "Sydney",
+"date": "1992-01-14T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "57*",
+"opposition": "v West Indies",
+"ground": "Melbourne",
+"date": "1992-01-16T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Australia",
+"ground": "Melbourne",
+"date": "1992-01-18T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 69,
+"opposition": "v Australia",
+"ground": "Sydney",
+"date": "1992-01-20T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 35,
+"opposition": "v England",
+"ground": "Perth",
+"date": "1992-02-22T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "DNB",
+"opposition": "v Sri Lanka",
+"ground": "Mackay",
+"date": "1992-02-28T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 11,
+"opposition": "v Australia",
+"ground": "Brisbane",
+"date": "1992-03-01T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "54*",
+"opposition": "v Pakistan",
+"ground": "Sydney",
+"date": "1992-03-04T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 81,
+"opposition": "v Zimbabwe",
+"ground": "Hamilton",
+"date": "1992-03-07T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v West Indies",
+"ground": "Wellington",
+"date": "1992-03-10T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 84,
+"opposition": "v New Zealand",
+"ground": "Dunedin",
+"date": "1992-03-12T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 14,
+"opposition": "v South Africa",
+"ground": "Adelaide",
+"date": "1992-03-15T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 39,
+"opposition": "v Zimbabwe",
+"ground": "Harare",
+"date": "1992-10-25T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 15,
+"opposition": "v South Africa",
+"ground": "Cape Town",
+"date": "1992-12-07T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 10,
+"opposition": "v South Africa",
+"ground": "Port Elizabeth",
+"date": "1992-12-09T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 22,
+"opposition": "v South Africa",
+"ground": "Centurion",
+"date": "1992-12-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 21,
+"opposition": "v South Africa",
+"ground": "Johannesburg",
+"date": "1992-12-13T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 32,
+"opposition": "v South Africa",
+"ground": "Bloemfontein",
+"date": "1992-12-15T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 23,
+"opposition": "v South Africa",
+"ground": "Durban",
+"date": "1992-12-17T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 21,
+"opposition": "v South Africa",
+"ground": "East London",
+"date": "1992-12-19T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "82*",
+"opposition": "v England",
+"ground": "Jaipur",
+"date": "1993-01-18T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v England",
+"ground": "Chandigarh",
+"date": "1993-01-21T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 3,
+"opposition": "v England",
+"ground": "Bangalore",
+"date": "1993-02-26T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 24,
+"opposition": "v England",
+"ground": "Jamshedpur",
+"date": "1993-03-01T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 5,
+"opposition": "v England",
+"ground": "Gwalior",
+"date": "1993-03-04T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 34,
+"opposition": "v England",
+"ground": "Gwalior",
+"date": "1993-03-05T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 3,
+"opposition": "v Zimbabwe",
+"ground": "Faridabad",
+"date": "1993-03-19T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "8*",
+"opposition": "v Zimbabwe",
+"ground": "Guwahati",
+"date": "1993-03-22T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "DNB",
+"opposition": "v Zimbabwe",
+"ground": "Pune",
+"date": "1993-03-25T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 21,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1993-07-25T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 15,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1993-08-12T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 25,
+"opposition": "v Sri Lanka",
+"ground": "Moratuwa",
+"date": "1993-08-14T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "26*",
+"opposition": "v Sri Lanka",
+"ground": "Kanpur",
+"date": "1993-11-07T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v West Indies",
+"ground": "Ahmedabad",
+"date": "1993-11-16T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 24,
+"opposition": "v Zimbabwe",
+"ground": "Indore",
+"date": "1993-11-18T08:00:00.000Z",
+"matchResult": "tied"
+},
+{
+"battingScore": 3,
+"opposition": "v South Africa",
+"ground": "Mohali",
+"date": "1993-11-22T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 15,
+"opposition": "v South Africa",
+"ground": "Kolkata",
+"date": "1993-11-24T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "28*",
+"opposition": "v West Indies",
+"ground": "Kolkata",
+"date": "1993-11-27T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v Sri Lanka",
+"ground": "Rajkot",
+"date": "1994-02-15T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "11*",
+"opposition": "v Sri Lanka",
+"ground": "Hyderabad (Deccan)",
+"date": "1994-02-18T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 52,
+"opposition": "v Sri Lanka",
+"ground": "Jalandhar",
+"date": "1994-02-20T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 15,
+"opposition": "v New Zealand",
+"ground": "Napier",
+"date": "1994-03-25T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 82,
+"opposition": "v New Zealand",
+"ground": "Auckland",
+"date": "1994-03-27T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 63,
+"opposition": "v New Zealand",
+"ground": "Wellington",
+"date": "1994-03-30T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 40,
+"opposition": "v New Zealand",
+"ground": "Christchurch",
+"date": "1994-04-02T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 63,
+"opposition": "v U.A.E.",
+"ground": "Sharjah",
+"date": "1994-04-13T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 73,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1994-04-15T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 6,
+"opposition": "v Australia",
+"ground": "Sharjah",
+"date": "1994-04-19T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 24,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1994-04-22T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "11*",
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1994-09-04T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 6,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1994-09-05T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 110,
+"opposition": "v Australia",
+"ground": "Colombo (RPS)",
+"date": "1994-09-09T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (SSC)",
+"date": "1994-09-17T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v West Indies",
+"ground": "Faridabad",
+"date": "1994-10-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 0,
+"opposition": "v West Indies",
+"ground": "Mumbai",
+"date": "1994-10-20T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v West Indies",
+"ground": "Chennai",
+"date": "1994-10-23T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 115,
+"opposition": "v New Zealand",
+"ground": "Vadodara",
+"date": "1994-10-28T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 34,
+"opposition": "v West Indies",
+"ground": "Kanpur",
+"date": "1994-10-30T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 62,
+"opposition": "v New Zealand",
+"ground": "Delhi",
+"date": "1994-11-03T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 66,
+"opposition": "v West Indies",
+"ground": "Kolkata",
+"date": "1994-11-05T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 54,
+"opposition": "v West Indies",
+"ground": "Visakhapatnam",
+"date": "1994-11-07T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 88,
+"opposition": "v West Indies",
+"ground": "Cuttack",
+"date": "1994-11-09T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 105,
+"opposition": "v West Indies",
+"ground": "Jaipur",
+"date": "1994-11-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 13,
+"opposition": "v New Zealand",
+"ground": "Napier",
+"date": "1995-02-16T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 37,
+"opposition": "v South Africa",
+"ground": "Hamilton",
+"date": "1995-02-18T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 47,
+"opposition": "v Australia",
+"ground": "Dunedin",
+"date": "1995-02-22T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 48,
+"opposition": "v Bangladesh",
+"ground": "Sharjah",
+"date": "1995-04-05T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1995-04-07T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "112*",
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "1995-04-09T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 41,
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "1995-04-14T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 30,
+"opposition": "v New Zealand",
+"ground": "Jamshedpur",
+"date": "1995-11-15T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 39,
+"opposition": "v New Zealand",
+"ground": "Amritsar",
+"date": "1995-11-18T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 7,
+"opposition": "v New Zealand",
+"ground": "Pune",
+"date": "1995-11-24T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 65,
+"opposition": "v New Zealand",
+"ground": "Nagpur",
+"date": "1995-11-26T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v New Zealand",
+"ground": "Mumbai (BS)",
+"date": "1995-11-29T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "127*",
+"opposition": "v Kenya",
+"ground": "Cuttack",
+"date": "1996-02-18T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 70,
+"opposition": "v West Indies",
+"ground": "Gwalior",
+"date": "1996-02-21T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 90,
+"opposition": "v Australia",
+"ground": "Mumbai",
+"date": "1996-02-27T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 137,
+"opposition": "v Sri Lanka",
+"ground": "Delhi",
+"date": "1996-03-02T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 3,
+"opposition": "v Zimbabwe",
+"ground": "Kanpur",
+"date": "1996-03-06T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 31,
+"opposition": "v Pakistan",
+"ground": "Bangalore",
+"date": "1996-03-09T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 65,
+"opposition": "v Sri Lanka",
+"ground": "Kolkata",
+"date": "1996-03-13T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 28,
+"opposition": "v Sri Lanka",
+"ground": "Singapore",
+"date": "1996-04-03T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 100,
+"opposition": "v Pakistan",
+"ground": "Singapore",
+"date": "1996-04-05T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1996-04-12T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 2,
+"opposition": "v South Africa",
+"ground": "Sharjah",
+"date": "1996-04-14T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 118,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1996-04-15T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 17,
+"opposition": "v South Africa",
+"ground": "Sharjah",
+"date": "1996-04-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 57,
+"opposition": "v South Africa",
+"ground": "Sharjah",
+"date": "1996-04-19T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 30,
+"opposition": "v England",
+"ground": "The Oval",
+"date": "1996-05-23T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 6,
+"opposition": "v England",
+"ground": "Leeds",
+"date": "1996-05-25T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v England",
+"ground": "Manchester",
+"date": "1996-05-26T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 110,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1996-08-28T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 40,
+"opposition": "v Zimbabwe",
+"ground": "Colombo (SSC)",
+"date": "1996-09-01T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 7,
+"opposition": "v Australia",
+"ground": "Colombo (SSC)",
+"date": "1996-09-06T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "89*",
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1996-09-16T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 20,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1996-09-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 2,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1996-09-18T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 3,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1996-09-21T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 23,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1996-09-23T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 11,
+"opposition": "v South Africa",
+"ground": "Hyderabad (Deccan)",
+"date": "1996-10-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 88,
+"opposition": "v Australia",
+"ground": "Bangalore",
+"date": "1996-10-21T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 64,
+"opposition": "v South Africa",
+"ground": "Jaipur",
+"date": "1996-10-23T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 28,
+"opposition": "v South Africa",
+"ground": "Rajkot",
+"date": "1996-10-29T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 62,
+"opposition": "v Australia",
+"ground": "Mohali",
+"date": "1996-11-03T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 67,
+"opposition": "v South Africa",
+"ground": "Mumbai",
+"date": "1996-11-06T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 114,
+"opposition": "v South Africa",
+"ground": "Mumbai",
+"date": "1996-12-14T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v South Africa",
+"ground": "Bloemfontein",
+"date": "1997-01-23T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 6,
+"opposition": "v Zimbabwe",
+"ground": "Paarl",
+"date": "1997-01-27T08:00:00.000Z",
+"matchResult": "tied"
+},
+{
+"battingScore": 1,
+"opposition": "v South Africa",
+"ground": "Port Elizabeth",
+"date": "1997-02-02T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 14,
+"opposition": "v South Africa",
+"ground": "East London",
+"date": "1997-02-04T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 41,
+"opposition": "v Zimbabwe",
+"ground": "Centurion",
+"date": "1997-02-07T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 104,
+"opposition": "v Zimbabwe",
+"ground": "Benoni",
+"date": "1997-02-09T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 32,
+"opposition": "v South Africa",
+"ground": "Durban",
+"date": "1997-02-12T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 45,
+"opposition": "v South Africa",
+"ground": "Durban",
+"date": "1997-02-13T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 13,
+"opposition": "v Zimbabwe",
+"ground": "Bulawayo",
+"date": "1997-02-15T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 44,
+"opposition": "v West Indies",
+"ground": "Port of Spain",
+"date": "1997-04-26T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "65*",
+"opposition": "v West Indies",
+"ground": "Port of Spain",
+"date": "1997-04-27T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 9,
+"opposition": "v West Indies",
+"ground": "Kingstown",
+"date": "1997-04-30T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v West Indies",
+"ground": "Bridgetown",
+"date": "1997-05-03T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 117,
+"opposition": "v New Zealand",
+"ground": "Bangalore",
+"date": "1997-05-14T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v Sri Lanka",
+"ground": "Mumbai",
+"date": "1997-05-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 4,
+"opposition": "v Pakistan",
+"ground": "Chennai",
+"date": "1997-05-21T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 21,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1997-07-18T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "TDNB",
+"opposition": "v Pakistan",
+"ground": "Colombo (SSC)",
+"date": "1997-07-20T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 28,
+"opposition": "v Bangladesh",
+"ground": "Colombo (SSC)",
+"date": "1997-07-24T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 53,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1997-07-26T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 27,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1997-08-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 6,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1997-08-20T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 27,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (SSC)",
+"date": "1997-08-23T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 39,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (SSC)",
+"date": "1997-08-24T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 17,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1997-09-13T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "25*",
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1997-09-14T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "TDNB",
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1997-09-17T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 0,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1997-09-18T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 6,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1997-09-20T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 51,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1997-09-21T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 2,
+"opposition": "v Pakistan",
+"ground": "Hyderabad (Sind)",
+"date": "1997-09-28T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 21,
+"opposition": "v Pakistan",
+"ground": "Karachi",
+"date": "1997-09-30T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 7,
+"opposition": "v Pakistan",
+"ground": "Lahore",
+"date": "1997-10-02T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 91,
+"opposition": "v England",
+"ground": "Sharjah",
+"date": "1997-12-11T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 3,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "1997-12-14T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v West Indies",
+"ground": "Sharjah",
+"date": "1997-12-16T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "82*",
+"opposition": "v Sri Lanka",
+"ground": "Guwahati",
+"date": "1997-12-22T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "TDNB",
+"opposition": "v Sri Lanka",
+"ground": "Indore",
+"date": "1997-12-25T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 6,
+"opposition": "v Sri Lanka",
+"ground": "Margao",
+"date": "1997-12-28T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 54,
+"opposition": "v Bangladesh",
+"ground": "Dhaka",
+"date": "1998-01-10T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 67,
+"opposition": "v Pakistan",
+"ground": "Dhaka",
+"date": "1998-01-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 95,
+"opposition": "v Pakistan",
+"ground": "Dhaka",
+"date": "1998-01-14T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v Pakistan",
+"ground": "Dhaka",
+"date": "1998-01-16T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 41,
+"opposition": "v Pakistan",
+"ground": "Dhaka",
+"date": "1998-01-18T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v Australia",
+"ground": "Kochi",
+"date": "1998-04-01T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 5,
+"opposition": "v Zimbabwe",
+"ground": "Vadodara",
+"date": "1998-04-05T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 100,
+"opposition": "v Australia",
+"ground": "Kanpur",
+"date": "1998-04-07T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v Zimbabwe",
+"ground": "Cuttack",
+"date": "1998-04-09T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 15,
+"opposition": "v Australia",
+"ground": "Delhi",
+"date": "1998-04-14T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 40,
+"opposition": "v New Zealand",
+"ground": "Sharjah",
+"date": "1998-04-17T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 80,
+"opposition": "v Australia",
+"ground": "Sharjah",
+"date": "1998-04-19T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 38,
+"opposition": "v New Zealand",
+"ground": "Sharjah",
+"date": "1998-04-20T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 143,
+"opposition": "v Australia",
+"ground": "Sharjah",
+"date": "1998-04-22T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 134,
+"opposition": "v Australia",
+"ground": "Sharjah",
+"date": "1998-04-24T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 33,
+"opposition": "v Bangladesh",
+"ground": "Mumbai",
+"date": "1998-05-25T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 18,
+"opposition": "v Kenya",
+"ground": "Gwalior",
+"date": "1998-05-28T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "100*",
+"opposition": "v Kenya",
+"ground": "Kolkata",
+"date": "1998-05-31T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 65,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1998-06-19T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 53,
+"opposition": "v New Zealand",
+"ground": "Colombo (RPS)",
+"date": "1998-06-23T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 17,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (SSC)",
+"date": "1998-07-01T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "TDNB",
+"opposition": "v New Zealand",
+"ground": "Colombo (SSC)",
+"date": "1998-07-03T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 128,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1998-07-07T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 77,
+"opposition": "v Pakistan",
+"ground": "Toronto",
+"date": "1998-09-20T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "127*",
+"opposition": "v Zimbabwe",
+"ground": "Bulawayo",
+"date": "1998-09-26T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 29,
+"opposition": "v Zimbabwe",
+"ground": "Bulawayo",
+"date": "1998-09-27T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v Zimbabwe",
+"ground": "Harare",
+"date": "1998-09-30T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 141,
+"opposition": "v Australia",
+"ground": "Dhaka",
+"date": "1998-10-28T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v West Indies",
+"ground": "Dhaka",
+"date": "1998-10-31T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 3,
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "1998-11-06T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "118*",
+"opposition": "v Zimbabwe",
+"ground": "Sharjah",
+"date": "1998-11-08T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 18,
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "1998-11-09T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 11,
+"opposition": "v Zimbabwe",
+"ground": "Sharjah",
+"date": "1998-11-11T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "124*",
+"opposition": "v Zimbabwe",
+"ground": "Sharjah",
+"date": "1998-11-13T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v New Zealand",
+"ground": "Taupo",
+"date": "1999-01-09T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 23,
+"opposition": "v New Zealand",
+"ground": "Napier",
+"date": "1999-01-12T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 45,
+"opposition": "v New Zealand",
+"ground": "Wellington",
+"date": "1999-01-14T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 5,
+"opposition": "v New Zealand",
+"ground": "Auckland",
+"date": "1999-01-16T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 28,
+"opposition": "v South Africa",
+"ground": "Hove",
+"date": "1999-05-15T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "140*",
+"opposition": "v Kenya",
+"ground": "Bristol",
+"date": "1999-05-23T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v Sri Lanka",
+"ground": "Taunton",
+"date": "1999-05-26T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 22,
+"opposition": "v England",
+"ground": "Birmingham",
+"date": "1999-05-29T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v Australia",
+"ground": "The Oval",
+"date": "1999-06-04T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 45,
+"opposition": "v Pakistan",
+"ground": "Manchester",
+"date": "1999-06-08T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 16,
+"opposition": "v New Zealand",
+"ground": "Nottingham",
+"date": "1999-06-12T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 14,
+"opposition": "v Australia",
+"ground": "Galle",
+"date": "1999-08-23T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 37,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "1999-08-25T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 120,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (SSC)",
+"date": "1999-08-29T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 85,
+"opposition": "v Zimbabwe",
+"ground": "Singapore",
+"date": "1999-09-04T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 40,
+"opposition": "v West Indies",
+"ground": "Singapore",
+"date": "1999-09-07T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 0,
+"opposition": "v West Indies",
+"ground": "Singapore",
+"date": "1999-09-08T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 32,
+"opposition": "v New Zealand",
+"ground": "Rajkot",
+"date": "1999-11-05T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "186*",
+"opposition": "v New Zealand",
+"ground": "Hyderabad (Deccan)",
+"date": "1999-11-08T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v New Zealand",
+"ground": "Gwalior",
+"date": "1999-11-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v New Zealand",
+"ground": "Guwahati",
+"date": "1999-11-14T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 0,
+"opposition": "v New Zealand",
+"ground": "Delhi",
+"date": "1999-11-17T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 13,
+"opposition": "v Pakistan",
+"ground": "Brisbane",
+"date": "2000-01-10T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 12,
+"opposition": "v Australia",
+"ground": "Melbourne",
+"date": "2000-01-12T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v Australia",
+"ground": "Sydney",
+"date": "2000-01-14T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 93,
+"opposition": "v Pakistan",
+"ground": "Hobart",
+"date": "2000-01-21T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 41,
+"opposition": "v Pakistan",
+"ground": "Adelaide",
+"date": "2000-01-25T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 18,
+"opposition": "v Australia",
+"ground": "Adelaide",
+"date": "2000-01-26T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 17,
+"opposition": "v Pakistan",
+"ground": "Perth",
+"date": "2000-01-28T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 3,
+"opposition": "v Australia",
+"ground": "Perth",
+"date": "2000-01-30T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 26,
+"opposition": "v South Africa",
+"ground": "Kochi",
+"date": "2000-03-09T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 21,
+"opposition": "v South Africa",
+"ground": "Jamshedpur",
+"date": "2000-03-12T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 12,
+"opposition": "v South Africa",
+"ground": "Faridabad",
+"date": "2000-03-15T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 122,
+"opposition": "v South Africa",
+"ground": "Vadodara",
+"date": "2000-03-17T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 93,
+"opposition": "v South Africa",
+"ground": "Nagpur",
+"date": "2000-03-19T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 5,
+"opposition": "v South Africa",
+"ground": "Sharjah",
+"date": "2000-03-22T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 11,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "2000-03-23T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 10,
+"opposition": "v Pakistan",
+"ground": "Sharjah",
+"date": "2000-03-26T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 39,
+"opposition": "v South Africa",
+"ground": "Sharjah",
+"date": "2000-03-27T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 36,
+"opposition": "v Bangladesh",
+"ground": "Dhaka",
+"date": "2000-05-30T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 93,
+"opposition": "v Sri Lanka",
+"ground": "Dhaka",
+"date": "2000-06-01T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 25,
+"opposition": "v Pakistan",
+"ground": "Dhaka",
+"date": "2000-06-03T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 25,
+"opposition": "v Kenya",
+"ground": "Nairobi (Gym)",
+"date": "2000-10-03T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 38,
+"opposition": "v Australia",
+"ground": "Nairobi (Gym)",
+"date": "2000-10-07T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 39,
+"opposition": "v South Africa",
+"ground": "Nairobi (Gym)",
+"date": "2000-10-13T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 69,
+"opposition": "v New Zealand",
+"ground": "Nairobi (Gym)",
+"date": "2000-10-15T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 101,
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "2000-10-20T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 8,
+"opposition": "v Zimbabwe",
+"ground": "Sharjah",
+"date": "2000-10-22T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Zimbabwe",
+"ground": "Sharjah",
+"date": "2000-10-26T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 61,
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "2000-10-27T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 5,
+"opposition": "v Sri Lanka",
+"ground": "Sharjah",
+"date": "2000-10-29T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 44,
+"opposition": "v Zimbabwe",
+"ground": "Cuttack",
+"date": "2000-12-02T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v Zimbabwe",
+"ground": "Ahmedabad",
+"date": "2000-12-05T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 146,
+"opposition": "v Zimbabwe",
+"ground": "Jodhpur",
+"date": "2000-12-08T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 62,
+"opposition": "v Zimbabwe",
+"ground": "Kanpur",
+"date": "2000-12-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 27,
+"opposition": "v Zimbabwe",
+"ground": "Rajkot",
+"date": "2000-12-14T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 35,
+"opposition": "v Australia",
+"ground": "Bangalore",
+"date": "2001-03-25T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 32,
+"opposition": "v Australia",
+"ground": "Pune",
+"date": "2001-03-28T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 139,
+"opposition": "v Australia",
+"ground": "Indore",
+"date": "2001-03-31T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 62,
+"opposition": "v Australia",
+"ground": "Visakhapatnam",
+"date": "2001-04-03T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 12,
+"opposition": "v Australia",
+"ground": "Margao",
+"date": "2001-04-06T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "70*",
+"opposition": "v Zimbabwe",
+"ground": "Harare",
+"date": "2001-06-24T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 9,
+"opposition": "v Zimbabwe",
+"ground": "Bulawayo",
+"date": "2001-06-27T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "81*",
+"opposition": "v West Indies",
+"ground": "Bulawayo",
+"date": "2001-06-30T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "122*",
+"opposition": "v West Indies",
+"ground": "Harare",
+"date": "2001-07-04T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v West Indies",
+"ground": "Harare",
+"date": "2001-07-07T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 101,
+"opposition": "v South Africa",
+"ground": "Johannesburg",
+"date": "2001-10-05T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 38,
+"opposition": "v South Africa",
+"ground": "Centurion",
+"date": "2001-10-10T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "DNB",
+"opposition": "v Kenya",
+"ground": "Bloemfontein",
+"date": "2001-10-12T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 3,
+"opposition": "v Kenya",
+"ground": "Port Elizabeth",
+"date": "2001-10-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 37,
+"opposition": "v South Africa",
+"ground": "East London",
+"date": "2001-10-19T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 146,
+"opposition": "v Kenya",
+"ground": "Paarl",
+"date": "2001-10-24T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 17,
+"opposition": "v South Africa",
+"ground": "Durban",
+"date": "2001-10-26T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 36,
+"opposition": "v England",
+"ground": "Kolkata",
+"date": "2002-01-19T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 45,
+"opposition": "v England",
+"ground": "Cuttack",
+"date": "2002-01-22T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 68,
+"opposition": "v England",
+"ground": "Chennai",
+"date": "2002-01-25T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "87*",
+"opposition": "v England",
+"ground": "Kanpur",
+"date": "2002-01-28T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 18,
+"opposition": "v England",
+"ground": "Delhi",
+"date": "2002-01-31T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 12,
+"opposition": "v England",
+"ground": "Mumbai",
+"date": "2002-02-03T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "34*",
+"opposition": "v West Indies",
+"ground": "Bridgetown",
+"date": "2002-05-29T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 65,
+"opposition": "v West Indies",
+"ground": "Port of Spain",
+"date": "2002-06-02T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v England",
+"ground": "Lord's",
+"date": "2002-06-29T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 49,
+"opposition": "v Sri Lanka",
+"ground": "The Oval",
+"date": "2002-06-30T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "105*",
+"opposition": "v England",
+"ground": "Chester-le-Street",
+"date": "2002-07-04T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 19,
+"opposition": "v Sri Lanka",
+"ground": "Birmingham",
+"date": "2002-07-06T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 36,
+"opposition": "v England",
+"ground": "The Oval",
+"date": "2002-07-09T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 113,
+"opposition": "v Sri Lanka",
+"ground": "Bristol",
+"date": "2002-07-11T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 14,
+"opposition": "v England",
+"ground": "Lord's",
+"date": "2002-07-13T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 7,
+"opposition": "v Zimbabwe",
+"ground": "Colombo (RPS)",
+"date": "2002-09-14T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "9*",
+"opposition": "v England",
+"ground": "Colombo (RPS)",
+"date": "2002-09-22T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 16,
+"opposition": "v South Africa",
+"ground": "Colombo (RPS)",
+"date": "2002-09-25T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "DNB",
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2002-09-29T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": "7*",
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2002-09-30T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 0,
+"opposition": "v New Zealand",
+"ground": "Wellington",
+"date": "2003-01-08T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v New Zealand",
+"ground": "Auckland",
+"date": "2003-01-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 1,
+"opposition": "v New Zealand",
+"ground": "Hamilton",
+"date": "2003-01-14T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 52,
+"opposition": "v Netherlands",
+"ground": "Paarl",
+"date": "2003-02-12T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 36,
+"opposition": "v Australia",
+"ground": "Centurion",
+"date": "2003-02-15T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 81,
+"opposition": "v Zimbabwe",
+"ground": "Harare",
+"date": "2003-02-19T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 152,
+"opposition": "v Namibia",
+"ground": "Pietermaritzburg",
+"date": "2003-02-23T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 50,
+"opposition": "v England",
+"ground": "Durban",
+"date": "2003-02-26T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 98,
+"opposition": "v Pakistan",
+"ground": "Centurion",
+"date": "2003-03-01T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 5,
+"opposition": "v Kenya",
+"ground": "Cape Town",
+"date": "2003-03-07T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 97,
+"opposition": "v Sri Lanka",
+"ground": "Johannesburg",
+"date": "2003-03-10T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 15,
+"opposition": "v New Zealand",
+"ground": "Centurion",
+"date": "2003-03-14T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 83,
+"opposition": "v Kenya",
+"ground": "Durban",
+"date": "2003-03-20T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Australia",
+"ground": "Johannesburg",
+"date": "2003-03-23T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "48*",
+"opposition": "v New Zealand",
+"ground": "Chennai",
+"date": "2003-10-23T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 100,
+"opposition": "v Australia",
+"ground": "Gwalior",
+"date": "2003-10-26T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 68,
+"opposition": "v Australia",
+"ground": "Mumbai",
+"date": "2003-11-01T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 14,
+"opposition": "v New Zealand",
+"ground": "Cuttack",
+"date": "2003-11-06T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 89,
+"opposition": "v Australia",
+"ground": "Bangalore",
+"date": "2003-11-12T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 102,
+"opposition": "v New Zealand",
+"ground": "Hyderabad (Deccan)",
+"date": "2003-11-15T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 45,
+"opposition": "v Australia",
+"ground": "Kolkata",
+"date": "2003-11-18T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 63,
+"opposition": "v Australia",
+"ground": "Melbourne",
+"date": "2004-01-09T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 44,
+"opposition": "v Zimbabwe",
+"ground": "Hobart",
+"date": "2004-01-14T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 86,
+"opposition": "v Australia",
+"ground": "Brisbane",
+"date": "2004-01-18T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 5,
+"opposition": "v Australia",
+"ground": "Perth",
+"date": "2004-02-01T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 3,
+"opposition": "v Zimbabwe",
+"ground": "Perth",
+"date": "2004-02-03T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v Australia",
+"ground": "Melbourne",
+"date": "2004-02-06T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 27,
+"opposition": "v Australia",
+"ground": "Sydney",
+"date": "2004-02-08T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 28,
+"opposition": "v Pakistan",
+"ground": "Karachi",
+"date": "2004-03-13T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 141,
+"opposition": "v Pakistan",
+"ground": "Rawalpindi",
+"date": "2004-03-16T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 0,
+"opposition": "v Pakistan",
+"ground": "Peshawar",
+"date": "2004-03-19T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 7,
+"opposition": "v Pakistan",
+"ground": "Lahore",
+"date": "2004-03-21T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 37,
+"opposition": "v Pakistan",
+"ground": "Lahore",
+"date": "2004-03-24T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 18,
+"opposition": "v U.A.E.",
+"ground": "Dambulla",
+"date": "2004-07-16T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 11,
+"opposition": "v Sri Lanka",
+"ground": "Dambulla",
+"date": "2004-07-18T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "82*",
+"opposition": "v Bangladesh",
+"ground": "Colombo (SSC)",
+"date": "2004-07-21T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 78,
+"opposition": "v Pakistan",
+"ground": "Colombo (RPS)",
+"date": "2004-07-25T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 18,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2004-07-27T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 74,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2004-08-01T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 16,
+"opposition": "v Pakistan",
+"ground": "Kolkata",
+"date": "2004-11-13T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 19,
+"opposition": "v Bangladesh",
+"ground": "Chittagong",
+"date": "2004-12-23T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 47,
+"opposition": "v Bangladesh",
+"ground": "Dhaka",
+"date": "2004-12-27T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Pakistan",
+"ground": "Kochi",
+"date": "2005-04-02T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v Pakistan",
+"ground": "Visakhapatnam",
+"date": "2005-04-05T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 6,
+"opposition": "v Pakistan",
+"ground": "Jamshedpur",
+"date": "2005-04-09T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 123,
+"opposition": "v Pakistan",
+"ground": "Ahmedabad",
+"date": "2005-04-12T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v Pakistan",
+"ground": "Kanpur",
+"date": "2005-04-15T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 9,
+"opposition": "v Pakistan",
+"ground": "Delhi",
+"date": "2005-04-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 93,
+"opposition": "v Sri Lanka",
+"ground": "Nagpur",
+"date": "2005-10-25T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "67*",
+"opposition": "v Sri Lanka",
+"ground": "Mohali",
+"date": "2005-10-28T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v Sri Lanka",
+"ground": "Jaipur",
+"date": "2005-10-31T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 11,
+"opposition": "v Sri Lanka",
+"ground": "Pune",
+"date": "2005-11-03T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 19,
+"opposition": "v Sri Lanka",
+"ground": "Rajkot",
+"date": "2005-11-09T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 39,
+"opposition": "v Sri Lanka",
+"ground": "Vadodara",
+"date": "2005-11-12T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v South Africa",
+"ground": "Hyderabad (Deccan)",
+"date": "2005-11-16T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 2,
+"opposition": "v South Africa",
+"ground": "Bangalore",
+"date": "2005-11-19T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v South Africa",
+"ground": "Kolkata",
+"date": "2005-11-25T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 30,
+"opposition": "v South Africa",
+"ground": "Mumbai",
+"date": "2005-11-28T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 100,
+"opposition": "v Pakistan",
+"ground": "Peshawar",
+"date": "2006-02-06T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 42,
+"opposition": "v Pakistan",
+"ground": "Rawalpindi",
+"date": "2006-02-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 95,
+"opposition": "v Pakistan",
+"ground": "Lahore",
+"date": "2006-02-13T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v Pakistan",
+"ground": "Multan",
+"date": "2006-02-16T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "2*",
+"opposition": "v Sri Lanka",
+"ground": "Colombo (SSC)",
+"date": "2006-08-18T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": "141*",
+"opposition": "v West Indies",
+"ground": "Kuala Lumpur",
+"date": "2006-09-14T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 12,
+"opposition": "v Australia",
+"ground": "Kuala Lumpur",
+"date": "2006-09-16T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 65,
+"opposition": "v West Indies",
+"ground": "Kuala Lumpur",
+"date": "2006-09-20T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Australia",
+"ground": "Kuala Lumpur",
+"date": "2006-09-22T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 35,
+"opposition": "v England",
+"ground": "Jaipur",
+"date": "2006-10-15T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 29,
+"opposition": "v West Indies",
+"ground": "Ahmedabad",
+"date": "2006-10-26T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 10,
+"opposition": "v Australia",
+"ground": "Mohali",
+"date": "2006-10-29T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 35,
+"opposition": "v South Africa",
+"ground": "Durban",
+"date": "2006-11-22T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 2,
+"opposition": "v South Africa",
+"ground": "Cape Town",
+"date": "2006-11-26T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v South Africa",
+"ground": "Port Elizabeth",
+"date": "2006-11-29T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 55,
+"opposition": "v South Africa",
+"ground": "Centurion",
+"date": "2006-12-03T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 31,
+"opposition": "v West Indies",
+"ground": "Nagpur",
+"date": "2007-01-21T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v West Indies",
+"ground": "Cuttack",
+"date": "2007-01-24T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 60,
+"opposition": "v West Indies",
+"ground": "Chennai",
+"date": "2007-01-27T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "100*",
+"opposition": "v West Indies",
+"ground": "Vadodara",
+"date": "2007-01-31T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "TDNB",
+"opposition": "v Sri Lanka",
+"ground": "Kolkata",
+"date": "2007-02-08T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 54,
+"opposition": "v Sri Lanka",
+"ground": "Rajkot",
+"date": "2007-02-11T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 1,
+"opposition": "v Sri Lanka",
+"ground": "Margao",
+"date": "2007-02-14T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 7,
+"opposition": "v Bangladesh",
+"ground": "Port of Spain",
+"date": "2007-03-17T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "57*",
+"opposition": "v Bermuda",
+"ground": "Port of Spain",
+"date": "2007-03-19T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 0,
+"opposition": "v Sri Lanka",
+"ground": "Port of Spain",
+"date": "2007-03-23T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 4,
+"opposition": "v Ireland",
+"ground": "Belfast",
+"date": "2007-06-23T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 99,
+"opposition": "v South Africa",
+"ground": "Belfast",
+"date": "2007-06-26T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 93,
+"opposition": "v South Africa",
+"ground": "Belfast",
+"date": "2007-06-29T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v South Africa",
+"ground": "Belfast",
+"date": "2007-07-01T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 17,
+"opposition": "v England",
+"ground": "Southampton",
+"date": "2007-08-21T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 99,
+"opposition": "v England",
+"ground": "Bristol",
+"date": "2007-08-24T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v England",
+"ground": "Birmingham",
+"date": "2007-08-27T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 55,
+"opposition": "v England",
+"ground": "Manchester",
+"date": "2007-08-30T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 71,
+"opposition": "v England",
+"ground": "Leeds",
+"date": "2007-09-02T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 94,
+"opposition": "v England",
+"ground": "The Oval",
+"date": "2007-09-05T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 30,
+"opposition": "v England",
+"ground": "Lord's",
+"date": "2007-09-08T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 0,
+"opposition": "v Australia",
+"ground": "Bangalore",
+"date": "2007-09-29T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 16,
+"opposition": "v Australia",
+"ground": "Kochi",
+"date": "2007-10-02T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 43,
+"opposition": "v Australia",
+"ground": "Hyderabad (Deccan)",
+"date": "2007-10-05T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 79,
+"opposition": "v Australia",
+"ground": "Chandigarh",
+"date": "2007-10-08T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 47,
+"opposition": "v Australia",
+"ground": "Vadodara",
+"date": "2007-10-11T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 72,
+"opposition": "v Australia",
+"ground": "Nagpur",
+"date": "2007-10-14T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 21,
+"opposition": "v Australia",
+"ground": "Mumbai",
+"date": "2007-10-17T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v Pakistan",
+"ground": "Guwahati",
+"date": "2007-11-05T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 99,
+"opposition": "v Pakistan",
+"ground": "Mohali",
+"date": "2007-11-08T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 29,
+"opposition": "v Pakistan",
+"ground": "Kanpur",
+"date": "2007-11-11T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 97,
+"opposition": "v Pakistan",
+"ground": "Gwalior",
+"date": "2007-11-15T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 30,
+"opposition": "v Pakistan",
+"ground": "Jaipur",
+"date": "2007-11-18T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 10,
+"opposition": "v Australia",
+"ground": "Brisbane",
+"date": "2008-02-03T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 35,
+"opposition": "v Sri Lanka",
+"ground": "Brisbane",
+"date": "2008-02-05T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 44,
+"opposition": "v Australia",
+"ground": "Melbourne",
+"date": "2008-02-10T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 32,
+"opposition": "v Sri Lanka",
+"ground": "Canberra",
+"date": "2008-02-12T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 5,
+"opposition": "v Australia",
+"ground": "Adelaide",
+"date": "2008-02-17T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 0,
+"opposition": "v Sri Lanka",
+"ground": "Adelaide",
+"date": "2008-02-19T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v Australia",
+"ground": "Sydney",
+"date": "2008-02-24T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 63,
+"opposition": "v Sri Lanka",
+"ground": "Hobart",
+"date": "2008-02-26T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "117*",
+"opposition": "v Australia",
+"ground": "Sydney",
+"date": "2008-03-02T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 91,
+"opposition": "v Australia",
+"ground": "Brisbane",
+"date": "2008-03-04T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 11,
+"opposition": "v England",
+"ground": "Bangalore",
+"date": "2008-11-23T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 50,
+"opposition": "v England",
+"ground": "Cuttack",
+"date": "2008-11-26T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 5,
+"opposition": "v Sri Lanka",
+"ground": "Dambulla",
+"date": "2009-01-28T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 6,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2009-01-31T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 7,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2009-02-03T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 20,
+"opposition": "v New Zealand",
+"ground": "Napier",
+"date": "2009-03-03T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 61,
+"opposition": "v New Zealand",
+"ground": "Wellington",
+"date": "2009-03-06T08:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": "163*",
+"opposition": "v New Zealand",
+"ground": "Christchurch",
+"date": "2009-03-08T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 46,
+"opposition": "v New Zealand",
+"ground": "Colombo (RPS)",
+"date": "2009-09-11T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 27,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2009-09-12T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 138,
+"opposition": "v Sri Lanka",
+"ground": "Colombo (RPS)",
+"date": "2009-09-14T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v Pakistan",
+"ground": "Centurion",
+"date": "2009-09-26T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "TDNB",
+"opposition": "v Australia",
+"ground": "Centurion",
+"date": "2009-09-28T07:00:00.000Z",
+"matchResult": "n/r"
+},
+{
+"battingScore": 14,
+"opposition": "v Australia",
+"ground": "Vadodara",
+"date": "2009-10-25T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 4,
+"opposition": "v Australia",
+"ground": "Nagpur",
+"date": "2009-10-28T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 32,
+"opposition": "v Australia",
+"ground": "Delhi",
+"date": "2009-10-31T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 40,
+"opposition": "v Australia",
+"ground": "Mohali",
+"date": "2009-11-02T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 175,
+"opposition": "v Australia",
+"ground": "Hyderabad (Deccan)",
+"date": "2009-11-05T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 10,
+"opposition": "v Australia",
+"ground": "Guwahati",
+"date": "2009-11-08T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 69,
+"opposition": "v Sri Lanka",
+"ground": "Rajkot",
+"date": "2009-12-15T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 43,
+"opposition": "v Sri Lanka",
+"ground": "Nagpur",
+"date": "2009-12-18T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": "96*",
+"opposition": "v Sri Lanka",
+"ground": "Cuttack",
+"date": "2009-12-21T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 8,
+"opposition": "v Sri Lanka",
+"ground": "Kolkata",
+"date": "2009-12-24T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 4,
+"opposition": "v South Africa",
+"ground": "Jaipur",
+"date": "2010-02-21T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": "200*",
+"opposition": "v South Africa",
+"ground": "Gwalior",
+"date": "2010-02-24T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 7,
+"opposition": "v South Africa",
+"ground": "Durban",
+"date": "2011-01-12T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 24,
+"opposition": "v South Africa",
+"ground": "Johannesburg",
+"date": "2011-01-15T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 28,
+"opposition": "v Bangladesh",
+"ground": "Dhaka",
+"date": "2011-02-19T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 120,
+"opposition": "v England",
+"ground": "Bangalore",
+"date": "2011-02-27T08:00:00.000Z",
+"matchResult": "tied"
+},
+{
+"battingScore": 38,
+"opposition": "v Ireland",
+"ground": "Bangalore",
+"date": "2011-03-06T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 27,
+"opposition": "v Netherlands",
+"ground": "Delhi",
+"date": "2011-03-09T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 111,
+"opposition": "v South Africa",
+"ground": "Nagpur",
+"date": "2011-03-12T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 2,
+"opposition": "v West Indies",
+"ground": "Chennai",
+"date": "2011-03-20T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 53,
+"opposition": "v Australia",
+"ground": "Ahmedabad",
+"date": "2011-03-24T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 85,
+"opposition": "v Pakistan",
+"ground": "Mohali",
+"date": "2011-03-30T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 18,
+"opposition": "v Sri Lanka",
+"ground": "Mumbai",
+"date": "2011-04-02T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 2,
+"opposition": "v Australia",
+"ground": "Melbourne",
+"date": "2012-02-05T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 48,
+"opposition": "v Sri Lanka",
+"ground": "Perth",
+"date": "2012-02-08T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 15,
+"opposition": "v Sri Lanka",
+"ground": "Adelaide",
+"date": "2012-02-14T08:00:00.000Z",
+"matchResult": "tied"
+},
+{
+"battingScore": 3,
+"opposition": "v Australia",
+"ground": "Brisbane",
+"date": "2012-02-19T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 22,
+"opposition": "v Sri Lanka",
+"ground": "Brisbane",
+"date": "2012-02-21T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 14,
+"opposition": "v Australia",
+"ground": "Sydney",
+"date": "2012-02-26T08:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 39,
+"opposition": "v Sri Lanka",
+"ground": "Hobart",
+"date": "2012-02-28T08:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 6,
+"opposition": "v Sri Lanka",
+"ground": "Dhaka",
+"date": "2012-03-13T07:00:00.000Z",
+"matchResult": "won"
+},
+{
+"battingScore": 114,
+"opposition": "v Bangladesh",
+"ground": "Dhaka",
+"date": "2012-03-16T07:00:00.000Z",
+"matchResult": "lost"
+},
+{
+"battingScore": 52,
+"opposition": "v Pakistan",
+"ground": "Dhaka",
+"date": "2012-03-18T07:00:00.000Z",
+"matchResult": "won"
+}
+]
